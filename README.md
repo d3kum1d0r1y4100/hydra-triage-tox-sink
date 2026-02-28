@@ -1,2 +1,2 @@
-# hydra-triage-tox-sink
-Triage test: PRT + tox (exploitable)
+# Triage Test: PRT + tox
+Test repo for pipeline validation.
