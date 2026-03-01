@@ -1,2 +1,2 @@
-# Triage Test: PRT + tox
-Test repo for pipeline validation.
+# Tox Test Runner
+Tox test runner setup.
